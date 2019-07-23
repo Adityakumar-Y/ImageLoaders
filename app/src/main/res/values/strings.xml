@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageLoaders</string>
+    <string name="btnLoad">LOAD</string>
+    <string name="load_gif">LOAD GIF</string>
+</resources>
